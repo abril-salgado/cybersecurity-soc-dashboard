@@ -8,7 +8,7 @@ Un tablero de Business Intelligence de nivel profesional desarrollado en Power B
 * **Control de SLAs:** Monitorear el porcentaje de resolución y mitigación (Tasa de Éxito) por parte de los analistas de seguridad del SOC.
 
 ## 📊 Vista Previa del Dashboard
-*(Para subir tu imagen: una vez creado el repositorio, arrastrá tu captura de pantalla en esta línea para que se visualice la interfaz)*
+<img width="1296" height="728" alt="Captura de pantalla 2026-06-30 212638" src="https://github.com/user-attachments/assets/2af98987-b8be-4c75-a55f-d0f55ef15737" />
 
 ---
 
